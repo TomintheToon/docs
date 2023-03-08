@@ -39,6 +39,14 @@
 * [Partners](extra/partners.md)
 * [Whitepaper](extra/whitepaper.md)
 
+## FAQ
+
+* [General](faq/general.md)
+* [Products](faq/products.md)
+* [Outcomes](faq/outcomes.md)
+* [Token](faq/token.md)
+* [Partnerships](faq/partnerships.md)
+
 ## Links
 
 * [Home Page](https://www.dual.finance/)
