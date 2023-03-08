@@ -22,7 +22,7 @@
   * [Governance Proposals](dual-tokenomics/dual-dao/governance-proposals.md)
 * [Fair Launch](dual-tokenomics/fair-launch.md)
 * [Constitution](dual-tokenomics/constitution.md)
-* [Market Liquidity](dual-tokenomics/market-liquidity.md)
+* [Token Liquidity](dual-tokenomics/token-liquidity.md)
 
 ## Integrations
 
@@ -34,7 +34,6 @@
 ## Extra
 
 * [Status](extra/status.md)
-* [FAQ](extra/faq.md)
 * [Security](extra/security.md)
 * [Partners](extra/partners.md)
 * [Whitepaper](extra/whitepaper.md)
@@ -43,7 +42,7 @@
 
 * [General](faq/general.md)
 * [Products](faq/products.md)
-* [Outcomes](faq/outcomes.md)
+* [Risks](faq/risks.md)
 * [Token](faq/token.md)
 * [Partnerships](faq/partnerships.md)
 

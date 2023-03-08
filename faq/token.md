@@ -1,3 +1,7 @@
+---
+description: $DUAL
+---
+
 # Token
 
 Q: How is the DUAL token distributed?\

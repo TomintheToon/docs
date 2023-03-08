@@ -1,8 +1,8 @@
 ---
-description: Best ways to considered risks of DIPs & Staking Options
+description: Strategies to view risks of DIPs & Staking Options
 ---
 
-# Outcomes
+# Risks
 
 Q: What do you mean by UPSIDE vs DOWNSIDE options? \
 A: Upside DIPs are covered call options and Downside DIPs are protected put options since they are fully collateralized positions. Yield as an option premium is paid to sell the "upside" or "downside" outcomes.\

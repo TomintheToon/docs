@@ -4,4 +4,6 @@ Dual Investment Pools, similar in structure to more commonly known Decentralized
 \
 Stake today & get paid immediately at [https://beta.dual.finance/](https://beta.dual.finance/)
 
+{% embed url="https://beta.dual.finance/" %}
+
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

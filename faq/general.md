@@ -20,7 +20,7 @@ Q: Why Staking Options better rewards than Tokens? \
 A: Dump Protection - non-inflationary since the strike limits supply; Timed Motivation - options expire so encourages to work towards goals in set period of time; Price Stability - introduces gamma which allows for easier market making of tokens
 
 Q: Where can you buy DUAL tokens? \
-A: The only way to acquire tokens directly is from option exercise, but several DEXs have community led liquidity. \
+A: The only way to acquire tokens directly is from Staking Option exercise, but several DEXs have community led liquidity. \
 Swaps: [https://jup.ag/swap/USDC-DUAL](https://jup.ag/swap/USDC-DUAL) \
 Limit Orders: [https://openserum.io/H6rrYK3SUHF2eguZCyJxnSBMJqjXhUtuaki6PHiutvum](https://openserum.io/H6rrYK3SUHF2eguZCyJxnSBMJqjXhUtuaki6PHiutvum)\
 AMMs: Raydium [https://raydium.io/clmm/pools](https://raydium.io/clmm/pools) & Orca

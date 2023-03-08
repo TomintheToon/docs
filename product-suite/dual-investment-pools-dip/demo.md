@@ -1,12 +1,13 @@
 # Demo
 
-Full narrated demo:\
-[https://youtu.be/cYVPeeJl86c](https://youtu.be/cYVPeeJl86c)\
-\
-Beginner mode:\
-[https://youtu.be/GYiOdRmPULk](https://youtu.be/GYiOdRmPULk)\
-\
-Advanced demo:
+{% embed url="https://youtu.be/cYVPeeJl86c" %}
+Full Narrated Demo
+{% endembed %}
 
-[https://youtu.be/873MszfaWiA](https://youtu.be/873MszfaWiA)
+{% embed url="https://youtu.be/GYiOdRmPULk" %}
+Beginner Mode
+{% endembed %}
 
+{% embed url="https://youtu.be/873MszfaWiA" %}
+Advanced Mode
+{% endembed %}

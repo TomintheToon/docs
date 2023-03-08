@@ -65,3 +65,5 @@ The Staking Option innovation as first designed and implemented by Dual Finance 
 
 **Future Vision**\
 The future scope of work for Dual Finance is broad and bold. Options as a financial innovation can be applied to replace any current incentivization or compensation mechanism with one that better aligns goals. Dual Finance believes Decentralized Finance provides the perfect experimental platform for new option-based ideas to proliferate and intends to be a driving force in their design, implementation and distribution. Throughout this engineering process, the Dual Finance DAO will guide and steward the DUAL token to be a requisite asset in any options-based incentive plan for new protocols.
+
+{% embed url="https://medium.com/@dualfinance/dual-finance-whitepaper-73f90f778c26" %}

@@ -1,4 +1,4 @@
-# Market Liquidity
+# Token Liquidity
 
 A main benefit of launching only using options on DUAL is it allows community led liquidity to form naturally. \
 \
@@ -20,20 +20,22 @@ OpenBook [https://openserum.io/H6rrYK3SUHF2eguZCyJxnSBMJqjXhUtuaki6PHiutvum](htt
 Raydium [https://raydium.io/clmm/pools](https://raydium.io/clmm/pools)\
 
 
-DUAL OpenBook Order Entry:
+**DUAL Market Access**\
+\
+Swaps via Jupiter
 
-1. Go to this OpenBook UI hosted at https://dex.solape.io/\
-   ![](https://lh6.googleusercontent.com/0ubgaWuUfpamOj4MuZr3G211TPr4OsK0avigUUhlgWwaC4TPWULCMei4mYtOxiuBzMiy1jKXboQ\_cHzojILTDPqbq9F2v6XnInnszuGgBsIdDmZSbUKVkqN1r-Y3zkd6xbj-3APP1\_CrmI8vitLMa4Y)
-2. Connect preferred Solana wallet
-3. Add custom market by clicking the plus button
-4.  Copy H6rrYK3SUHF2eguZCyJxnSBMJqjXhUtuaki6PHiutvum into Market Id field, enter Base label DUAL & click Add\
+1. Use [https://jup.ag/swap/USDC-DUAL](https://jup.ag/swap/USDC-DUAL)&#x20;
 
+\
+OR\
+\
+Limit Orders via OpenBook
 
-    <figure><img src="https://lh4.googleusercontent.com/sG6j3ggb3N8jIFl6Vc6OQH7tQkFFChrTyKcAHtHX5qv1XYsLSkqSXxOaeNPLYRSX-WZ_I_yP2pdzRikI0f_C6Q1RfZviu_6uKWDHGn1RGLij5JfBISks2IrkPqixZzTh6O6rvJRAt1nVrhsM7htgm3Q" alt=""><figcaption></figcaption></figure>
-5. Enter desired price & quantity\
-   ![](https://lh6.googleusercontent.com/miutdHABj2XqE9PEZtSoK9UwOsqAetvY\_bdKJZor-umt0GFBMxVwaSVGCoV6Hkg1ZoqLr8phBQugEAF38EjtAzZJrjJdm2pffgCkzOi5oVbin7kxqeSiN4tRDZcdzFwweKH6meXyKiSZF8dU8jOLKHo)
-6. Click Buy or Sell & Confirm Transaction on wallet extension
-
-OR
-
-1. Use https://jup.ag/swap/USDC-DUAL&#x20;
+2. Go to this OpenBook UI hosted at [https://dex.solape.io/](https://dex.solape.io/)&#x20;
+3. Connect preferred Solana wallet
+4. Add custom market by clicking the plus button\
+   ![](https://lh5.googleusercontent.com/iUI0iJQhqI\_3Or\_eb48BSvl67lzssMuWG\_Lkbj2LpQ4AHWdbDYDnMTi0e8qjAOUTItTbQ9JvhE9V1X85-jSWLgxGqO5G77YV-h3fQza1ngy2Z1e1qZkj6S0-fLKfDo1-2MtvY-vVBw4TI-Jvbi1xgsM)
+5. Copy H6rrYK3SUHF2eguZCyJxnSBMJqjXhUtuaki6PHiutvum into Market Id field, enter Base label DUAL & click Add![](https://lh5.googleusercontent.com/bMwhCC4YjdWEshcmlYuHbyhSBqo2g3-CUykmhZJbbIZiHYR5fVSBdjHrUD0GGo-w\_AKIbzr4H05HN30DBHdDw-bjicOqWrzRCX2hH7ezpbz1AIleb57y38VecXUIEyG8xWQlGsS9rUWNIJsr1lcu51k)
+6. Enter desired price & quantity\
+   ![](https://lh4.googleusercontent.com/YNhZrpdmokfq3lISoIhq0\_sX0\_-L4p1uwa1TG9uhmWcIVbnVl8aluK\_EqVtrnNlvJLJrdQZUxTVUBkIymA\_LDSlamEW\_3tVc-YZSPZCrA3q-zKt2E6sFfXR2RH35nO1RZizBL9vyr5mTknB9nhr4VOU)
+7. Click Buy or Sell & Confirm Transaction on wallet extension
