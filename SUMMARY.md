@@ -23,7 +23,8 @@
   * [Constitution](dual-tokenomics/dual-dao/constitution.md)
   * [Council](dual-tokenomics/dual-dao/council.md)
 * [Fair Launch](dual-tokenomics/fair-launch.md)
-* [Token Liquidity](dual-tokenomics/token-liquidity.md)
+* [Token Liquidity](dual-tokenomics/token-liquidity/README.md)
+  * [Limit Orders](dual-tokenomics/token-liquidity/limit-orders.md)
 
 ## Integrations
 

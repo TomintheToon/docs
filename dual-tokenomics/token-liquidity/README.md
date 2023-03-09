@@ -36,17 +36,7 @@ Swap DUAL
 
 \
 \
-**Limit Orders via OpenBook**
 
-2. Go to this OpenBook UI hosted at [https://dex.solape.io/](https://dex.solape.io/)
-3. Connect preferred Solana wallet
-4. Add custom market by clicking the plus button\
-   ![](https://lh5.googleusercontent.com/iUI0iJQhqI\_3Or\_eb48BSvl67lzssMuWG\_Lkbj2LpQ4AHWdbDYDnMTi0e8qjAOUTItTbQ9JvhE9V1X85-jSWLgxGqO5G77YV-h3fQza1ngy2Z1e1qZkj6S0-fLKfDo1-2MtvY-vVBw4TI-Jvbi1xgsM)
-5. Copy **H6rrYK3SUHF2eguZCyJxnSBMJqjXhUtuaki6PHiutvum** into _Market Id_ field, enter _Base label_ **DUAL** & click **Add**\
-   ![](https://lh5.googleusercontent.com/bMwhCC4YjdWEshcmlYuHbyhSBqo2g3-CUykmhZJbbIZiHYR5fVSBdjHrUD0GGo-w\_AKIbzr4H05HN30DBHdDw-bjicOqWrzRCX2hH7ezpbz1AIleb57y38VecXUIEyG8xWQlGsS9rUWNIJsr1lcu51k)
-6. Enter desired price & quantity\
-   ![](https://lh4.googleusercontent.com/YNhZrpdmokfq3lISoIhq0\_sX0\_-L4p1uwa1TG9uhmWcIVbnVl8aluK\_EqVtrnNlvJLJrdQZUxTVUBkIymA\_LDSlamEW\_3tVc-YZSPZCrA3q-zKt2E6sFfXR2RH35nO1RZizBL9vyr5mTknB9nhr4VOU)
-7. Click **Buy** or **Sell** & Confirm Transaction on wallet extension
 
 {% embed url="https://dex.solape.io/" %}
 Add a custom market for DUAL

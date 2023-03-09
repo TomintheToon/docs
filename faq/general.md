@@ -23,8 +23,8 @@ A: Dump Protection - non-inflationary since the strike limits supply; Timed Moti
 A: The only way to acquire tokens directly is from Staking Option exercise, but several DEXs have community led liquidity. \
 See:
 
-{% content-ref url="../dual-tokenomics/token-liquidity.md" %}
-[token-liquidity.md](../dual-tokenomics/token-liquidity.md)
+{% content-ref url="../dual-tokenomics/token-liquidity/" %}
+[token-liquidity](../dual-tokenomics/token-liquidity/)
 {% endcontent-ref %}
 
 **Q: What are RLPs?** \
