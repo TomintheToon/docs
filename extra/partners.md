@@ -18,6 +18,10 @@ Switchboard - Integrated Risk Manager Pricing\
 Pyth - Integrated Risk Manager Pricing\
 Chainlink - Integrated Risk Manager Pricing\
 Jupiter - DEX Aggregator\
-DIA -Implied Volatility Risk Manager Pricing\
+DIA - Implied Volatility Risk Manager Pricing\
 \
-See FAQ for more details&#x20;
+See Partnership FAQ for more details:&#x20;
+
+{% content-ref url="../faq/partnerships.md" %}
+[partnerships.md](../faq/partnerships.md)
+{% endcontent-ref %}

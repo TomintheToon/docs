@@ -5,7 +5,7 @@
 ## Product Suite
 
 * [Dual Investment Pools (DIP)](product-suite/dual-investment-pools-dip/README.md)
-  * [Demo](product-suite/dual-investment-pools-dip/demo.md)
+  * [Demos](product-suite/dual-investment-pools-dip/demos.md)
   * [Contract Specifications](product-suite/dual-investment-pools-dip/contract-specifications.md)
 * [Staking Options (SO)](product-suite/staking-options-so/README.md)
   * [Demo](product-suite/staking-options-so/demo.md)
@@ -20,8 +20,9 @@
 
 * [Dual DAO](dual-tokenomics/dual-dao/README.md)
   * [Governance Proposals](dual-tokenomics/dual-dao/governance-proposals.md)
+  * [Constitution](dual-tokenomics/dual-dao/constitution.md)
+  * [Council](dual-tokenomics/dual-dao/council.md)
 * [Fair Launch](dual-tokenomics/fair-launch.md)
-* [Constitution](dual-tokenomics/constitution.md)
 * [Token Liquidity](dual-tokenomics/token-liquidity.md)
 
 ## Integrations
@@ -33,6 +34,7 @@
 
 ## Extra
 
+* [Progress Reports](extra/progress-reports.md)
 * [Status](extra/status.md)
 * [Security](extra/security.md)
 * [Partners](extra/partners.md)

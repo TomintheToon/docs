@@ -1,7 +1,10 @@
 # Partnership Program
 
-Early adopters of SOs can earn DUAL SOs\
+Choose a sustainable path for your token
 
+{% embed url="https://medium.com/@dualfinance/sustainable-token-incentives-12bde6aa5b75" %}
+
+Early adopters of Staking Options can earn DUAL Staking Options grants for incentive alignment between the Dual DAO and partner projects or DAOs
 
 {% file src="../../.gitbook/assets/Dual Finance Partnership Deck - Dec.pdf" %}
 
