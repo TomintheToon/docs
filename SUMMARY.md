@@ -13,6 +13,7 @@
 * [Risk Manager (RM)](product-suite/risk-manager-rm/README.md)
   * [Demos](product-suite/risk-manager-rm/demos.md)
 * [Dual Airdrop](product-suite/dual-airdrop/README.md)
+  * [Design Specs](product-suite/dual-airdrop/design-specs.md)
   * [Proof-of-Governance](product-suite/dual-airdrop/proof-of-governance.md)
 * [Rehypothecated Lending Pools (RLP)](product-suite/rehypothecated-lending-pools-rlp.md)
 
