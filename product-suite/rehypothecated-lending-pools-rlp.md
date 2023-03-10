@@ -1,5 +1,5 @@
 # Rehypothecated Lending Pools (RLP)
 
-Coming Soon!\
+Allow borrows of your token collateral, gain additional yield.\
 \
-Allow borrows of your token collateral, gain additional yield.
+Coming Soon!

@@ -31,7 +31,6 @@
 * [Studio](integrations/studio.md)
 * [Realms](integrations/realms.md)
 * [SDK](integrations/sdk.md)
-* [MM API](integrations/mm-api.md)
 
 ## Extra
 

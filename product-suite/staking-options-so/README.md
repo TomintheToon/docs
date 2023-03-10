@@ -13,8 +13,7 @@ Airdrops - Community Seed Airdrop example, reward and growth or participation th
 Governance - Realms token voting also rewards SOs, Proof-of-Governance\
 Contributions - Teams and employees receive token options as compensation for work, tax advantaged\
 \
-Deep dive:\
-
+Deep dive:
 
 {% embed url="https://medium.com/@dualfinance/applications-of-staking-options-in-decentralized-finance-b588893fec92" %}
 
