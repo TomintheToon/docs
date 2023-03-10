@@ -26,6 +26,10 @@ Markets are **NOT** being seeded or sponsored by the team or the Dual DAO\
 View Market
 {% endembed %}
 
+{% embed url="https://www.orca.so/liquidity/open-position/7yJ4gMRJhEoCR48aPE3EAWRmCoygakik81ZS1sajaTnE" %}
+Add Concentrated Liquidity
+{% endembed %}
+
 {% embed url="https://raydium.io/clmm/pools" %}
 Search DUAL
 {% endembed %}
@@ -34,10 +38,3 @@ Search DUAL
 Swap DUAL
 {% endembed %}
 
-\
-\
-
-
-{% embed url="https://dex.solape.io/" %}
-Add a custom market for DUAL
-{% endembed %}
