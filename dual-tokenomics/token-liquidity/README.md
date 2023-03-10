@@ -26,7 +26,7 @@ Markets are **NOT** being seeded or sponsored by the team or the Dual DAO\
 View Market
 {% endembed %}
 
-{% embed url="https://www.orca.so/liquidity/open-position/7yJ4gMRJhEoCR48aPE3EAWRmCoygakik81ZS1sajaTnE" %}
+{% embed url="https://www.orca.so/liquidity/browse?tokenMint=DUALa4FC2yREwZ59PHeu1un4wis36vHRv5hWVBmzykCJ" %}
 Add Concentrated Liquidity
 {% endembed %}
 
