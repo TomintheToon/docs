@@ -1,10 +1,10 @@
 ---
-description: Dual Investment Pools & Staking Options
+description: Dual Investment Pools and Staking Options
 ---
 
 # Products
 
-**Which tokens can I stake into DIPs start?** \
+**Which tokens can I stake into DIPs to start?** \
 SOL (Soon BTC, ETH, MNGO and others)
 
 **Which wallets are supported?** \
@@ -12,7 +12,8 @@ Currently we support Phantom, Glow, Solflare and Backpack wallets. Any wallet
 using solana-wallet-adapter can be easily integrated.
 
 **What is meant by the quoted APY on DIPs?** \
-APYs are a normalized way to examine risk and effective yield between different strikes, expirations and products.
+APYs are a normalized way to examine risk and effective yield between different
+strikes, expirations and products.
 
 **How is APY calculated?** \
 APY = Premium / Spot Price / Years until Expiration
@@ -26,15 +27,17 @@ The strike will be a function of the strike of the DIP that you deposit into.
 The expiration equals the same date as the DIP.
 
 **Is there a minimum trade amount?** \
-DIPs have a minimum of whatever amount is required to get .001 in premium. This
-amount may vary depending upon current yields, but is always very small.
+DIPs have a minimum deposit of whatever amount is required to get .001 in
+premium. This amount may vary depending upon current yields, but is always very
+small.
 
 **Why is Physical settlement used for DIPs and Staking Options?**\
 Physically settlement allows the actual exchange or trade of tokens at the
 strike price, unlike Cash settlement which just pays the difference of the
 strike and current price. Physically settlement is better for illiquid tokens
 which have hard to determine current prices and eliminates the dependency on
-oracles which can be maninpulated.
+oracles which can be easily maninpulated on the illiquid markets which Staking
+Options are seeking to improve.
 
 **How can I exercise a Staking Option I've earned?**\
 Go to [Balances](https://beta.dual.finance/balance) any time before the

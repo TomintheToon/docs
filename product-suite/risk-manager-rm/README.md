@@ -7,7 +7,7 @@ to provide liquidity while managing risk.
 \
 Integrated with OpenBook, Mango Markets, Jupiter Aggregator, Phoenix and more to come.\
 \
-Indirectly the Risk Manager provides project tokens liquidity on-chain.&#x20;
+The Risk Manager indirectly uses Staking Options to provide liquidity on-chain.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
