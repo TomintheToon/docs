@@ -1,6 +1,9 @@
 # Risk Manager (RM)
 
-The Risk Manager is an Open Source Gamma Scalper capable of hedging option positions inventoried by the protocol. \
+The Risk Manager is an Open Source Gamma Scalper capable of hedging option
+positions inventoried by the protocol. Staking options allow the Risk Manager
+to provide liquidity while managing risk.
+\
 \
 Integrated with OpenBook, Mango Markets, Jupiter Aggregator, Phoenix and more to come.\
 \

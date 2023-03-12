@@ -15,7 +15,6 @@
 * [Dual Airdrop](product-suite/dual-airdrop/README.md)
   * [Design Specs](product-suite/dual-airdrop/design-specs.md)
   * [Proof-of-Governance](product-suite/dual-airdrop/proof-of-governance.md)
-* [Rehypothecated Lending Pools (RLP)](product-suite/rehypothecated-lending-pools-rlp.md)
 
 ## DUAL Tokenomics
 

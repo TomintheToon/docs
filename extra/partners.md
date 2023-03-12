@@ -1,24 +1,24 @@
 ---
-description: Solana Ecosystem Groups with various levels of ongoing & future partnership
+description: Solana Ecosystem Groups with various levels of ongoing and future partnership
 ---
 
 # Partners
 
-OpenBook - DEX, Risk Manager Integration & Natural Liquidity Provider\
-Mango Markets - Perp DEX, Incentive Provider, Risk Manager Integration & Natural Liquidity Provider, DAO Member, Security Reviewer\
-GSR - DIP Market Maker, Security Reviewer\
-BONK - Loyalty Staking Options\
-Motley Labs - Incentive Council Member\
-Realms - Integration Staking Options & Airdrop\
-Dean's List - UI/UX Review\
-Hey Wallet - Social Media Rewards\
+OpenBook - DEX used by the Risk Manager\
+Mango Markets - Perp DEX used by the Risk Manager, Incentive Provider, DAO Member, Security review\
+GSR - DIP market maker, Security review\
+BONK - Loyalty Staking Options user\
+Motley Labs - Incentive Council member\
+Realms - Solana governance tool with integration of Staking Options and Dual-Airdrop\
+Dean's List - UI/UX review\
+Hey Wallet - Social media rewards\
+Switchboard - Oracle used by the Risk Manager\
+Pyth - Oracle used by the Risk Manager\
+Chainlink - Oracle used by the Risk Manager\
+Jupiter - DEX aggregator used by the Risk Manager\
+DIA - Implied Volatility Risk Manager Pricing\
 Raydium - AMM DEX\
 Orca - CLAMM DEX\
-Switchboard - Integrated Risk Manager Pricing\
-Pyth - Integrated Risk Manager Pricing\
-Chainlink - Integrated Risk Manager Pricing\
-Jupiter - DEX Aggregator\
-DIA - Implied Volatility Risk Manager Pricing\
 \
 See Partnership FAQ for more details:&#x20;
 

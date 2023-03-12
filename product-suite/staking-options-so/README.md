@@ -4,14 +4,14 @@ description: Avoid Inflationary Tokenomics, Evangelize the Community, Prevent Pr
 
 # Staking Options (SO)
 
-Staking Options are a new reward that rewards users or crypto protocols options rather than the underlying tokens. \
+Staking Options are a new incentive mechanism that rewards users or crypto protocols options rather than the underlying tokens. \
 \
 **Active Use Cases for Dual Finance:**\
 Liquidity - DIPs will reward stakers in SOs rather than standard liqudity mining rewards\
-Lockups - BONK example, users lockup tokens for fixed periods of time to recieve the right to buy at a fixed price, SO\
-Airdrops - Community Seed Airdrop example, reward and growth or participation that is identifiable by account activity in SO\
-Governance - Realms token voting also rewards SOs, Proof-of-Governance\
-Contributions - Teams and employees receive token options as compensation for work, tax advantaged\
+Loyalty - Users lock tokens for fixed periods of time to recieve the right to buy at a fixed price. Running this program for BONK\
+Seed Airdrop - Reward participation to distribute the token and replace a seed fundraise\
+Proof-of-Governance - Realms token voting also rewards SOs\
+Contribution - Teams, employees, and partners receive token options as compensation for work\
 \
 Deep dive:
 
