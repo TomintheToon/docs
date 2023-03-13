@@ -1,3 +1,7 @@
+---
+description: Direct Wallet Connections
+---
+
 # Studio
 
 UI for Creating Staking Options. Requires tokens on a wallet connected to the app.\

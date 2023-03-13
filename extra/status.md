@@ -18,4 +18,4 @@ Product status including open volume of pools & risk manager trading
 * **Tests**: Various Github workflow tests to monitor health of the app components
 * **Services**: Monitor dependencies like network status
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Natural Liquidity Provided from the Risk Manager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Natural Liquidity Provided from the Risk Manager</p></figcaption></figure>

@@ -14,7 +14,9 @@
   * [Demos](product-suite/risk-manager-rm/demos.md)
 * [Dual Airdrop](product-suite/dual-airdrop/README.md)
   * [Design Specs](product-suite/dual-airdrop/design-specs.md)
-  * [Proof-of-Governance](product-suite/dual-airdrop/proof-of-governance.md)
+* [Proof-of-Governance](product-suite/proof-of-governance/README.md)
+  * [User Demo](product-suite/proof-of-governance/user-demo.md)
+  * [Project Guide](product-suite/proof-of-governance/project-guide.md)
 * [Rehypothecated Lending Pools (RLP)](product-suite/rehypothecated-lending-pools-rlp.md)
 
 ## DUAL Tokenomics
