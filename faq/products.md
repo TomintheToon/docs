@@ -5,7 +5,7 @@ description: Dual Investment Pools and Staking Options
 # Products
 
 **Which tokens can I stake into DIPs to start?** \
-SOL (Soon BTC, ETH, MNGO and others)
+SOL (Soon BTC, ETH, MNGO, MSOL and others)
 
 **Which wallets are supported?** \
 Currently we support Phantom, Glow, Solflare and Backpack wallets. Any wallet
