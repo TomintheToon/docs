@@ -64,7 +64,7 @@ To fix crypto’s broken tokenomic incentive structures through sustainable opti
 Non-Technical contributors should reach out in discord by creating a
 [ticket](https://discord.com/channels/937797334048325673/1070906120622854154) or
 creating a thread in the [#governance channel](https://discord.com/channels/937797334048325673/1071855278808637560).
-Explain the scope of work you which to conduct, your background and why you're
+Explain the scope of work you wish to conduct, your background and why you're
 well suited for that work. Elaborate on how the Dual DAO stands to benefit from
 the work and any milestones or deliverables that will be produced. The more
 detail in your proposal better. All contributions are eligible for DUAL Staking
