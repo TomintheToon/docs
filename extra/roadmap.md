@@ -33,3 +33,4 @@ description: Completed since February 2022
 * [ ] Staking Options Marketplace
 * [ ] Competitive Decentralized Liquidity Provider
 * [ ] Partnership Expansion
+* [ ] Multi-chain Expansion
