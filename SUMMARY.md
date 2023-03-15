@@ -42,6 +42,7 @@
 * [Security](extra/security.md)
 * [Partners](extra/partners.md)
 * [Whitepaper](extra/whitepaper.md)
+* [Roadmap](extra/roadmap.md)
 
 ## FAQ
 

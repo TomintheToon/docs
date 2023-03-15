@@ -53,3 +53,9 @@ A: Non-Technical contributors should reach out in discord by creating a [ticket]
 **Q: How can non-technical people contribute?**\
 A: Technical contributors can fork and make Pull Requests directly into the Dual Finance Github repositories. A good first place to look for issues is in the [Status repo](https://github.com/Dual-Finance/status/issues)!&#x20;
 
+**Q: What is on the Dual Finance Roadmap?**\
+A: Liquidity Incentive Infrastructure. See the Roadmap Page:
+
+{% content-ref url="../extra/roadmap.md" %}
+[roadmap.md](../extra/roadmap.md)
+{% endcontent-ref %}
