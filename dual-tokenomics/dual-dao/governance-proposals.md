@@ -1,3 +1,7 @@
+---
+description: Participation Steps
+---
+
 # Governance Proposals
 
 **Proposal Voting:**

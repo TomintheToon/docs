@@ -5,19 +5,19 @@
 ## Product Suite
 
 * [Dual Investment Pools (DIP)](product-suite/dual-investment-pools-dip/README.md)
-  * [Demos](product-suite/dual-investment-pools-dip/demos.md)
+  * [Guides](product-suite/dual-investment-pools-dip/demos.md)
   * [Contract Specifications](product-suite/dual-investment-pools-dip/contract-specifications.md)
 * [Staking Options (SO)](product-suite/staking-options-so/README.md)
-  * [Demo](product-suite/staking-options-so/demo.md)
   * [Partnership Program](product-suite/staking-options-so/partnership-program.md)
+  * [Demo](product-suite/staking-options-so/demo.md)
 * [Risk Manager (RM)](product-suite/risk-manager-rm/README.md)
+  * [Performance](product-suite/risk-manager-rm/performance.md)
   * [Demos](product-suite/risk-manager-rm/demos.md)
 * [Dual Airdrop](product-suite/dual-airdrop/README.md)
   * [Design Specs](product-suite/dual-airdrop/design-specs.md)
 * [Proof-of-Governance](product-suite/proof-of-governance/README.md)
   * [User Demo](product-suite/proof-of-governance/user-demo.md)
   * [Project Guide](product-suite/proof-of-governance/project-guide.md)
-* [Rehypothecated Lending Pools (RLP)](product-suite/rehypothecated-lending-pools-rlp.md)
 
 ## DUAL Tokenomics
 

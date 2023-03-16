@@ -1,11 +1,15 @@
+---
+description: Improved DOVs
+---
+
 # Dual Investment Pools (DIP)
 
-Dual Investment Pools are similar in structure to more commonly known
-Decentralized Option Vaults (DOVs) but with real-time pricing and customizable
-yields. They are also physically settled, meaning you will end up with either
-your staked asset or stablecoins upon withdrawing after expiration. Premiums are
-also paid immediately upon staking so you can put your funds to work for longer.
-\ \
+Dual Finance has upgraded decentralized option vaults (DOVs), by creating Dual Investment Pools (DIPs) offering streaming executable yield strategies. Customize strategies based on your risk appetite and earn yield immediately.\
+\
+DIPs are also physically settled, meaning you will end up with either your staked asset or stablecoins upon withdrawing after expiration - the risk are these dual outcomes. Premiums are paid immediately upon staking, allowing users to put funds to work for longer. \
+\
+DIPs serve as an example of a product that can be sustainably incentivized though utilizing Staking Options within a liquidity mining program.\
+\
 Stake today & get paid immediately at [https://beta.dual.finance/](https://beta.dual.finance/)
 
 {% embed url="https://beta.dual.finance/" %}

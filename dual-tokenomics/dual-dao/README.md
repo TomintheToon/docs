@@ -1,3 +1,7 @@
+---
+description: Governance of Dual Finance
+---
+
 # Dual DAO
 
 Deposit DUAL to vote on Dual DAO proposals on [Realms](https://app.realms.today/dao/dual%20dao)\
