@@ -1,10 +1,12 @@
+---
+description: First project to use only options to distribute tokens!
+---
+
 # Fair Launch
 
-First project to use only options to distribute tokens!\
-\
 The Dual DAO launched the DUAL token on March 2nd, 2023 by airdropping the community 7.5% of token supply in the Community Seed Airdrop, the tokens airdropped are Staking Options on DUAL.\
 \
-[Claim the Community Seed Airdrop!](dual-dao/council.md)
+[Claim the Community Seed Airdrop!](https://csa.dual.finance/airdrop)
 
 Read about the novel DUAL Fair Launch strategy
 
