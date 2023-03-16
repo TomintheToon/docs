@@ -4,11 +4,9 @@ First project to use only options to distribute tokens!\
 \
 The Dual DAO launched the DUAL token on March 2nd, 2023 by airdropping the community 7.5% of token supply in the Community Seed Airdrop, the tokens airdropped are Staking Options on DUAL.\
 \
-Airdropped Staking Option tokens can be claimed at [https://beta.dual.finance/airdrop](https://beta.dual.finance/airdrop) !\
+[Claim the Community Seed Airdrop!](dual-dao/council.md)
 
-
-Read about the novel DUAL Fair Launch strategy\
-
+Read about the novel DUAL Fair Launch strategy
 
 {% embed url="https://medium.com/@dualfinance/staking-option-fair-launch-f08a2ba958e8" %}
 
@@ -18,6 +16,6 @@ Airdrop Claim Demo
 
 DUAL Staking Option Tracker can be found on the SO tab of the [Status Page](https://status.dual.finance/).
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://docs.google.com/spreadsheets/d/1AwAoqyXEmJtUTAqPgm1_4sTx-H5-UzMwcEZMcN-hm00/edit?usp=sharing" %}

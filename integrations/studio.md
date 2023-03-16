@@ -1,3 +1,7 @@
+---
+description: Direct Wallet Connections
+---
+
 # Studio
 
 For demo purposes only. Projects should only use this for testing, whereas real

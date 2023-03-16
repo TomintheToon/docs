@@ -18,4 +18,4 @@ A developer focused site displaying the operational status of Dual.
 * **Tests**: Various integration tests to monitor health of the system components.
 * **Services**: Links to status monitoring for some of our dependencies like Solana.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Natural Liquidity Provided from the Risk Manager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Natural Liquidity Provided from the Risk Manager</p></figcaption></figure>

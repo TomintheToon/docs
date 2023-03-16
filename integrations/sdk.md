@@ -1,3 +1,7 @@
+---
+description: Developer Usage of Incentive Structures
+---
+
 # SDK
 
 Integrate directly to create and reward users with Staking Options rather than inflationary tokens.\

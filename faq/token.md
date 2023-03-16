@@ -29,5 +29,15 @@ Voting on Realms and proposing governance instructions controlling Dual DAO trea
 [governance-proposals.md](../dual-tokenomics/dual-dao/governance-proposals.md)
 {% endcontent-ref %}
 
-**How can I determine whether it makes sense to exercise my DUAL Staking Options?**\
-DUAL markets will be illiquid to begin, meaning in order to exercise you must have conviction in the fundamental price of the token and be confident holding it until liquidity develops. As with any financial decision more risk means potentially more reward. In theory, the Community Seed Airdrop presents an opportunity to participate at levels that are normally reserved only for VC investment. Do your own research.
+**Q: How can I determine whether it makes sense to exercise my DUAL Staking Options?**\
+A: DUAL markets will be illiquid to begin, meaning in order to exercise you must have conviction in the fundamental price of the token and be confident holding it until liquidity develops. As with any financial decision more risk means potentially more reward. In theory, the Community Seed Airdrop presents an opportunity to participate at levels that are normally reserved only for VC investment. Do your own research & always make decisions for yourself without outside influence.
+
+**Q: Where can I trade DUAL?**\
+A: See below
+
+{% content-ref url="../dual-tokenomics/token-liquidity/" %}
+[token-liquidity](../dual-tokenomics/token-liquidity/)
+{% endcontent-ref %}
+
+**Q: Will DUAL trade on any CEX markets?**\
+A: There will be no efforts to list DUAL on any centralized exchanges from the DAO or team. If the community members want to reach out to exchanges nothing is stopping them.
