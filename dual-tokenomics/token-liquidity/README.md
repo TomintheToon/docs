@@ -4,15 +4,15 @@ description: Dogfooding Staking Options
 
 # Token Liquidity
 
-A main benefit of launching only using options on DUAL is it allows community led liquidity to form naturally.\
+One of the main benefits of launching only using options on DUAL is it allows community led liquidity to form naturally.\
 \
 Options circulating in the market as opposed to underlying tokens, reduce inflation while bootstrapping liquidity. Apart from the incentive benefits of using option rewards, this is the driving influence as to why this system can benefit illiquid crypto token networks.
 
 {% embed url="https://medium.com/@dualfinance/incentive-liquidity-infrastructure-12c2c33886a1" %}
 
-Participants must exercise Staking Options to purchase DUAL from the DAO and become DAO members. However as the Constitution states, the DAO is unable to limit the use of the token on the secondary market.\
+Participants must exercise Staking Options to purchase DUAL from the DAO and become DAO members. However as the Constitution states, the DAO is unable to limit the use of the token on the secondary market. By exercising DUAL Staking Options in exchange for USDC, DUAL holders have skin-in-the-game and are more likely to hold their tokens and participate in the community than to dump them and disappear (a common occurrence for free token airdrops).\
 \
-The USDC from exercise of any DUAL Staking Options goes to the Dual DAO treasury over which holders subsequently have governance.\
+The USDC from exercise of any DUAL Staking Options goes to the Dual DAO treasury over which DUAL holders subsequently have governance.\
 \
 Markets are **NOT** being seeded or sponsored by the team or the Dual DAO\
 \
