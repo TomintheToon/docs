@@ -4,8 +4,7 @@ description: Developer Usage of Incentive Structures
 
 # SDK
 
-Integrate directly to create and reward users with Staking Options rather than inflationary tokens.\
-
+Integrate directly to create and reward users with Staking Options rather than inflationary tokens.
 
 **Staking Options:**
 
@@ -13,6 +12,6 @@ Integrate directly to create and reward users with Staking Options rather than i
 
 {% embed url="https://github.com/Dual-Finance/gso-sdk" %}
 
-**Airdrop directly from your DAO**
+**Airdrop:**
 
 {% embed url="https://github.com/Dual-Finance/airdrop-sdk" %}

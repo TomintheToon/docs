@@ -1,5 +1,5 @@
 ---
-description: Ratified by the council, pending token ratification
+description: Ratified by the council, pending community ratification
 ---
 
 # Constitution

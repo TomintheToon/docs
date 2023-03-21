@@ -1,8 +1,12 @@
+---
+description: Vote-to-Earn
+---
+
 # User Demo
 
 The first ever Governance Staking Option was tested on 3/12/2023\
 \
-Added 35 members & unique voters to the DAO for the following test proposal:&#x20;
+Added 35 members & unique voters to the DAO for the following test proposal:
 
 {% embed url="https://app.realms.today/dao/dual%20dao/proposal/AMUH4supmMuDLnHjT1epG8BeHtqjDPJikHbsQzG1YXpn" %}
 

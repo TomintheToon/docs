@@ -4,7 +4,7 @@ No formal code audit has been completed yet, but several peer reviews have been 
 \
 DUAL Staking Option rewards are offered for bug bounty's in accordance with the severity and potential loss of DAO assets.\
 \
-Program Authority is owned by the Dual DAO Council\
+Program Upgrade Authority is owned by the Dual DAO Council\
 \
 **Open Source:**
 
@@ -28,5 +28,5 @@ Peer Reviewed by Realms
 **Closed Source:**\
 
 
-Pending Review from GSR\
+Pending Review from a market maker\
 [Dual Investment Pools](https://github.com/Dual-Finance/dual-labs-dip)&#x20;

@@ -1,5 +1,5 @@
 ---
-description: Risk Manager Overview
+description: Video Explainers
 ---
 
 # Demos
@@ -11,4 +11,3 @@ Summer Hackathon 2022 DeFi Champion
 {% embed url="https://youtu.be/XRxvUR5bNj0" %}
 OpenBook Integration
 {% endembed %}
-

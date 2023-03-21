@@ -1,4 +1,8 @@
-# Demo
+---
+description: Advanced & Beginner Modes
+---
+
+# Guides
 
 {% embed url="https://youtu.be/cYVPeeJl86c" %}
 Full Narrated Demo
