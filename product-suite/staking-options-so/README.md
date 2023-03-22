@@ -13,7 +13,7 @@ Staking Options are a new and innovative incentive mechanism that reward users o
 * Loyalty - Users lock tokens for fixed periods of time to receive the right to buy at a fixed price. Dual Finance is currently running this program for BONK
 * Airdrop - Reward participation by distributing token options to your community - a great alternative to seed fundraising
 * Proof-of-Governance - Reward active DOA members with token options via token voting in Realms
-* Contribution - Teams, contributors, and partners can be granted token options as compensation for work
+* Contribution - Teams, contributors, and partners can be granted token options as compensation for work - helps drive engagement and incentivizes contributors
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>BONK Loyalty Staking Options</p></figcaption></figure>
 
