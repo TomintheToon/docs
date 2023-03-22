@@ -4,16 +4,16 @@ description: Avoid Inflationary Tokenomics, Evangelize the Community, Prevent Pr
 
 # Staking Options (SO)
 
-Staking Options are a new incentive mechanism that rewards users or crypto protocols options rather than the underlying tokens. Staking options are designed to be flexible and tailored to different use cases that projects determine valuable.\
+Staking Options are a new and innovative incentive mechanism that reward users or crypto protocols with options rather than the underlying tokens. Staking Options are designed to be flexible and tailored to different use cases that projects determine valuable.\
 \
 \
 **Active Use Cases for Dual Finance:**
 
 * Liquidity - DIPs will reward stakers in SOs rather than standard liquidity mining rewards
-* Loyalty - Users lock tokens for fixed periods of time to receive the right to buy at a fixed price. Running this program for BONK
-* Airdrop - Reward participation to distribute the token and replace seed fundraising
-* Proof-of-Governance - Realms token voting also rewards SOs
-* Contribution - Teams, contributors, and partners receive token options as compensation for work
+* Loyalty - Users lock tokens for fixed periods of time to receive the right to buy at a fixed price. Dual Finance is currently running this program for BONK
+* Airdrop - Reward participation by distributing token options to your community - a great alternative to seed fundraising
+* Proof-of-Governance - Reward active DOA members with token options via token voting in Realms
+* Contribution - Teams, contributors, and partners can be granted token options as compensation for work
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>BONK Loyalty Staking Options</p></figcaption></figure>
 
