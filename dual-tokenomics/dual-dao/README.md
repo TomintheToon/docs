@@ -4,15 +4,12 @@ description: Governance of Dual Finance
 
 # Dual DAO
 
-Deposit DUAL to vote on Dual DAO proposals on [Realms](https://app.realms.today/dao/dual%20dao)\
+Dual DAO is hosted on [Realms](https://app.realms.today/dao/dual%20dao).\
 \
-Treasury earns fees on DIPs and exercised SOs.\
+The DAO enables participants to deposit DUAL tokens in return for elibility to vote on governace proposals. There is no minimum deposit size and there is no lock-up period for the deposit; users can withdraw their tokens at any time.\
 \
-Participants in governance may be eligible to earn further DUAL Staking Options via Proof-of-Governance. Keep a close eye on Realms and/or the discord [Governance channel](https://discord.com/channels/937797334048325673/1071855278808637560) for proposals
+The Dual DAO has a treasury that includes all of the un-vested DUAL tokens. In addition, the DUAL DAO earns fees on DIPs and exercised SOs.\
+\
+Participants in governance may be eligible to earn further DUAL Staking Options ("Proof-of-Governance Airdrops"). Keep a close eye on Realms and/or the discord [Governance channel](https://discord.com/channels/937797334048325673/1071855278808637560) for upcoming proposals.
 
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
-
-| DiPbvUUJkDhV9jFtQsDFnMEMRJyjW5iS6NMwoySiW8ki - DIP program       |
-| ---------------------------------------------------------------- |
-| 4yx1NJ4Vqf2zT1oVLk4SySBhhDJXmXFt88ncm4gPxtL7 - SO program        |
-| DuALd6fooWzVDkaTsQzDAxPGYCnLrnWamdNNTNxicdX8 - Lockup SO program |
