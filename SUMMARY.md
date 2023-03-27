@@ -6,6 +6,7 @@
 
 * [Dual Investment Pools (DIP)](product-suite/dual-investment-pools-dip/README.md)
   * [Guides](product-suite/dual-investment-pools-dip/demos.md)
+  * [Liquidity Staking Options](product-suite/dual-investment-pools-dip/liquidity-staking-options-lso.md)
   * [Contract Specifications](product-suite/dual-investment-pools-dip/contract-specifications.md)
 * [Staking Options (SO)](product-suite/staking-options-so/README.md)
   * [Partnership Program](product-suite/staking-options-so/partnership-program.md)
