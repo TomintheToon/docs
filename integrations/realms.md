@@ -6,7 +6,9 @@ description: Incentive Tools for for DAOs
 
 {% embed url="https://app.realms.today/dao/dual%20dao" %}
 
-Reach out in [Discord](https://discord.com/channels/937797334048325673/1070906120622854154) for a full explanation tailored to your projects needs!\
+Dual Finance has developed a number of helpful tools that integrate with Realms. Some examples are shown below.  
+
+Reach out in [Discord](https://discord.com/channels/937797334048325673/1070906120622854154) for a full explanation of how Dual Finance can partner with your project and tailor solutions to meet your project's needs!\
 \
 Create Staking Options\
 ![](<../.gitbook/assets/image (6) (1).png>)\
