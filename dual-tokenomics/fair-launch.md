@@ -18,6 +18,6 @@ Airdrop Claim Demo
 
 DUAL Staking Option Tracker can be found on the SO tab of the [Status Page](https://status.dual.finance/).
 
-<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SO Status" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://docs.google.com/spreadsheets/d/1AwAoqyXEmJtUTAqPgm1_4sTx-H5-UzMwcEZMcN-hm00/edit?usp=sharing" %}

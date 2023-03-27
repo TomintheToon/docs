@@ -24,4 +24,4 @@ Note: DUAL must be locked for the duration of a proposal. Quorum for token votes
 
 Note: Please create a new thread in discord to discuss ahead of any proposal
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Realms Dashboard" alt=""><figcaption></figcaption></figure>

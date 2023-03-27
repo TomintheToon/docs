@@ -8,7 +8,7 @@ Airdrop any token directly from your DAO. This is the only tool available to mak
 \
 Integrated with Realms and used by the DUAL DAO to reward participants
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Airdrop Realms" alt=""><figcaption></figcaption></figure>
 
 Community Seed Airdrop participants can claim their DUAL Staking Options.
 

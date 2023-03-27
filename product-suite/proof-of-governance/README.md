@@ -6,7 +6,7 @@ description: >-
 
 # Proof-of-Governance
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Composable Incentives</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PoG Diagram" alt=""><figcaption><p>Composable Incentives</p></figcaption></figure>
 
 \
 \
@@ -33,4 +33,3 @@ description: >-
 * Structure out-of-the-money strikes & long maturities
 * Exercise further funds the DAO treasury
 * Provides small voters an economic reason to vote & stay involved
-
