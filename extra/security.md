@@ -25,8 +25,7 @@ Peer Reviewed by Realms
 {% endembed %}
 
 \
-**Closed Source:**\
-
+**Closed Source:**
 
 Pending Review from a market maker\
-[Dual Investment Pools](https://github.com/Dual-Finance/dual-labs-dip)&#x20;
+[Dual Investment Pools](https://github.com/Dual-Finance/dual-labs-dip)

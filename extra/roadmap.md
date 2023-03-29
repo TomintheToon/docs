@@ -16,7 +16,7 @@ description: Completed since February 2022
 * [x] Dual Airdrop Tool for DAOs
 * [ ] Automate Dual Airdrop
 * [x] Proof-of-Governance
-* [ ] Liquidity Staking Options
+* [x] Liquidity Staking Options
 * [ ] Downside DIPs
 * [ ] BTC & ETH DIPs
 * [ ] Rehypothetcated Lending Pools
@@ -30,6 +30,7 @@ description: Completed since February 2022
 * [ ] Phase out Dual DAO Council
 * [ ] xNFT App
 * [ ] Saga Mobile App
+* [ ] Atomic Swap Tool
 * [ ] Staking Options Marketplace
 * [ ] Competitive Decentralized Liquidity Provider
 * [ ] Partnership Expansion

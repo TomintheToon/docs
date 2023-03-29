@@ -15,7 +15,7 @@ Staking Options are a new and innovative incentive mechanism that reward users o
 * Proof-of-Governance - Reward active DAO members with token options via token voting in Realms
 * Contribution - Teams, contributors, and partners can be granted token options as compensation for work - helps drive engagement and incentivizes contributors
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>BONK Loyalty Staking Options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/BONK GSO" alt=""><figcaption><p>BONK Loyalty Staking Options</p></figcaption></figure>
 
 {% embed url="https://medium.com/@dualfinance/applications-of-staking-options-in-decentralized-finance-b588893fec92" %}
 Deep Dive into Use Cases

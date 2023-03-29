@@ -4,8 +4,7 @@ description: Direct Wallet Connections
 
 # Studio
 
-For demo purposes only. Projects should only use this for testing, whereas real
-usage should come from program or governance integration.\
+For demo purposes only. Projects should only use this for testing, whereas real usage should come from program or governance integration.\
 \
 The studio is a UI for Creating Staking Options. It requires tokens in a wallet that is connected to the app.\
 \
@@ -13,4 +12,4 @@ Calculate present values of potential option reward structures at [Staking Optio
 \
 Reach out in discord for a personalize tour to your projects needs.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Studio Calc" alt=""><figcaption></figcaption></figure>
