@@ -30,6 +30,7 @@ description: Completed since February 2022
 * [ ] Phase out Dual DAO Council
 * [ ] xNFT App
 * [ ] Saga Mobile App
+* [ ] Atomic Swap Tool
 * [ ] Staking Options Marketplace
 * [ ] Competitive Decentralized Liquidity Provider
 * [ ] Partnership Expansion
