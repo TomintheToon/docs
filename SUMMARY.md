@@ -44,6 +44,7 @@
 * [Partners](extra/partners.md)
 * [Whitepaper](extra/whitepaper.md)
 * [Roadmap](extra/roadmap.md)
+* [Program Addresses](extra/program-addresses.md)
 
 ## FAQ
 
