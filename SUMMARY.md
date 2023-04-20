@@ -29,6 +29,7 @@
 * [Fair Launch](dual-tokenomics/fair-launch.md)
 * [Token Liquidity](dual-tokenomics/token-liquidity/README.md)
   * [Limit Orders](dual-tokenomics/token-liquidity/limit-orders.md)
+  * [Oracle Price](dual-tokenomics/token-liquidity/oracle-price.md)
 
 ## Integrations
 
