@@ -1,5 +1,5 @@
 ---
-description: Dual Investment Pools and Staking Options
+Description: Dual Investment Pools and Staking Options
 ---
 
 # Products
@@ -8,7 +8,7 @@ description: Dual Investment Pools and Staking Options
 SOL (Soon BTC, ETH, MNGO, MSOL and others)
 
 **Which wallets are supported?**\
-Currently we support Phantom, Glow, Solflare and Backpack wallets. Any wallet using solana-wallet-adapter can be easily integrated.
+Currently we support Phantom, Glow, Solflare and Backpack wallets. Any wallet using the solana-wallet-adapter can be easily integrated.
 
 **What is meant by the quoted APY on DIPs?**\
 APYs are a normalized way to examine risk and effective yield between different strikes, expirations and products.
@@ -17,16 +17,22 @@ APYs are a normalized way to examine risk and effective yield between different 
 APY = Premium / Spot Price / Years until Expiration
 
 **How is the amount of Liquidity Staking Options (LSO) rewarded calculated?**\
-LSO (Coming Soon!) quantities are calculated based on the amount you stake into the DIP.
+LSO quantities are calculated based on the amount you stake into the DIP.
 
 **What determines the strike and expiration of Liquidity Staking Option?**\
-The strike will be a function of the strike of the DIP that you deposit into. The expiration equals the same date as the DIP.
+The strike is a function of the strike of the DIP that you deposit into. The expiration is set as the same date as the expiry of the DIP.
 
 **Is there a minimum trade amount?**\
-DIPs minimum deposit is the amount of stake that pays 0.001 of USDC premium. This amount may vary depending upon current yields, but is sufficiently low to enable user testing to become familiar with the product.
+DIPs have a minimum deposit calculated as the amount of stake that will pay 0.001 of USDC premium. The minimum amount therefore varies depending upon current yields, but is sufficiently low to enable users to test and become familiar with the product.
 
 **Why is Physical settlement used for DIPs and Staking Options?**\
-Physically settlement allows the actual exchange or trade of tokens at the strike price, unlike Cash settlement which just pays the difference of the strike and current price. Physically settlement is better for illiquid tokens which have hard to determine current prices and eliminates the dependency on oracles which can be easily maninpulated on the illiquid markets which Staking Options are seeking to improve.
+Physical settlement allows the exchange ('trade') of tokens at the strike price, enabling users to build a position in the option token. It is suited to scenarios where there is low liquidity in the option token, as low liquidity makes determining the current fair price difficult. Staking Options seek to reduce the dependency on pricing oracles, which can easily be manipulated for low liquidity tokens.   
+
+**What the Advanced Settlement Options?**\
+Dual currently offers three alternative settlement mechanisms, intended for advanced users only:\
+**- Cash Settlement:** The cash settlement option allows users to take profits from an ITM option, effectively paying the user the difference between the strike price and the current market price of the option token. This entails a single transaction that will (1) purchase the option tokens (as per physical settlement), (2) sell all of the purchased option tokens for USDC. NB. Users are required to have sufficient USDC in their wallet to cover the entire purchase of the option tokens in step (1) in order to use the Cash Settlement mechanism.\
+**- Hybrid Settlement:** The hybrid settlement option allows users to use the profits from an ITM option to purchase option tokens, leaving the user with options tokens at no cost to them. This entails a single transaction that will (1) purchase the option tokens (as per physical settlement), (2) sell just enough of the purchased option tokens for USDC in order to cover the cost of the purchase in step (1). NB. Users are required to have sufficient USDC in their wallet to cover the entire purchase of the option tokens in step (1) in order to use the Hybrid Settlement mechanism.\
+**- Liquidate:** The liquidate settlement option allows users to take profits from an ITM option without having to provide any USDC to exercise, paying the user the difference between the strike price and the current market price of the option token, minus a small premium. The same mechanism is employed as Cash Settlement with the crucial difference that the USDC required for stage (1) is provided by the protocol as opposed to the user. NB. This mechanism is only available on certain Staking/Liquidity Options and includes a 50 bps fee to the user, which is paid to the Dual DAO.
 
 **How can I exercise a Staking Option I've earned?**\
 Go to [Balances](https://beta.dual.finance/balance) any time before the expiration date and have enough USDC in your wallet to be able to buy for the strike price.
